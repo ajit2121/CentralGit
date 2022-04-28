@@ -1,3 +1,7 @@
 This is mumbai life
 This is my Second line in mumbai file
+<<<<<<< HEAD
 See what happen when mumbai will push data from unupdated file
+=======
+This third line is from singapore
+>>>>>>> e1593c4d61b9e0c88e3228792d02313dfe2834a6
